@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ENIAC/ENIAC.vcxproj" Id="3cb93432-bce5-42d1-b31b-edac28972b38" />
+</Solution>
